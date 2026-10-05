@@ -10,7 +10,7 @@ else
 fi
 
 echo "============================================================"
-echo " Mali r56p0 x86 research workspace bootstrap"
+echo " Mali r54p0 x86 research workspace bootstrap"
 echo "============================================================"
 echo "[+] Workspace: $ROOT_DIR"
 echo

@@ -33,7 +33,7 @@ set -Eeuo pipefail
 #         └── config
 #
 # IMPORTANT:
-# Mali r56p0 is NOT copied into the kernel tree.
+# Mali r54p0 is NOT copied into the kernel tree.
 # It will later be built as an external module.
 # ============================================================
 
